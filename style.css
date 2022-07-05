@@ -1,0 +1,143 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 1000px;
+}
+
+.Header {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 1440px;
+    height: 669px;
+    
+    
+}
+.first-section-text-h{
+    color: white;
+    padding-top: 150px;
+    font-size: 65px;
+    font-weight: medium;
+}
+.first-section-text-p{
+    color: white;
+    padding-left: 370px;
+    padding-right: 370px;
+    padding-bottom: 40px;
+}
+.frist-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.donate-today{
+    text-align: center;
+}
+.donatee{
+    padding-top: 60px;
+    font-size: 40px;
+}
+.text-p{
+    color: #707070;
+    
+}
+.text-b{
+    padding-bottom: 80px;
+}
+.give-tk{
+    display: flex;
+    
+}
+.tk-btn{
+   margin: auto;
+   padding-bottom: 100px;
+   
+}
+.btn-tk{
+    text-decoration: none;
+    color: #707070;
+    background-color: #FAFAFA;
+    padding: 40px 30px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.btn-tkk{
+    text-decoration: none;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    padding: 40px 30px;
+    border-radius: 10px;
+    font-size: 25px;
+    border: 2px solid #FF5959;
+}
+input{
+    margin-left: 400px;
+    height: 40px;
+    width: 600px;
+    border: 0;
+    border-bottom: 1px solid #DADADA;
+    display: block;
+    margin-bottom: 40px;
+}
+input::placeholder{
+    text-align: center;
+    font-size: 20px;
+    color: #B3B3B3;
+}
+.last-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-left: 600px;
+    
+}
+
+.donate-plan{
+    text-align: center;
+    margin-top: 100px;
+}
+.hd{
+    font-size: 50px;
+}
+.dh{
+    font-size: 18px;
+    color: #707070;
+}
+
+.three{
+    display: flex;
+    
+    
+}
+
+.nine{
+    background-color: #4F9DA6;
+    height: 300px;
+    width: 330px;
+    margin-right: 40px;
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.eight{
+    background-color: #FF5959;
+    height: 300px;
+    width: 330px;
+    margin-right: 40px;
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+.seven{
+    background-color: #FFF4D6;
+    height: 300px;
+    width: 330px;
+    margin-right: 40px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
